@@ -1,0 +1,17 @@
+[
+    {
+      "id": "about",
+      "label": "About me",
+      "content": "Hello! I’m Dave, your sales rep here from Salesforce. I’ve been working at this awesome company for 3 years now. I was born and raised in Albany, NY & have been living in Santa Carla for the past 10 years with my wife Tiffany and my 4-year-old twin daughters, Emma and Ella. Both of them are just starting school, so my calendar is usually blocked between 9-10 AM. As a Sales Representative at Salesforce for the past three years, I have consistently exceeded my sales targets by 15-20%, earning recognition as one of the top-performing reps within the company. My role involves building and maintaining strong client relationships, which has led to a 30% increase in customer retention across key accounts. I have successfully led several sales campaigns focused on mid-size and large enterprises, contributing to a 25% growth in new business opportunities. Additionally, I collaborate closely with cross-functional teams to customize Salesforce solutions for clients, resulting in a 95% customer satisfaction rate. Despite a busy schedule, I effectively manage my time to balance both professional and personal commitments, particularly in the mornings when I dedicate time to my twin daughters, Emma and Ella, as they begin school."
+    },
+    {
+      "id": "experiences",
+      "label": "Experiences",
+      "content": "As a Sales Representative at Salesforce for the past three years, I have consistently exceeded my sales targets by 15-20%, earning recognition as one of the top-performing reps within the company. My role involves building and maintaining strong client relationships, which has led to a 30% increase in customer retention across key accounts. I have successfully led several sales campaigns focused on mid-size and large enterprises, contributing to a 25% growth in new business opportunities. Additionally, I collaborate closely with cross-functional teams to customize Salesforce solutions for clients, resulting in a 95% customer satisfaction rate. Despite a busy schedule, I effectively manage my time to balance both professional and personal commitments, particularly in the mornings when I dedicate time to my twin daughters, Emma and Ella, as they begin school."
+    },
+    {
+      "id": "recommended",
+      "label": "Recommended",
+      "content": "I highly recommend Dave as a Sales Representative at Salesforce. Over the past three years, he has consistently demonstrated exceptional performance, exceeding sales targets by 15-20% and earning recognition as one of the top performers in the company. Dave excels in building strong client relationships, which has led to a significant 30% increase in customer retention. His ability to lead successful sales campaigns, particularly for mid-size and large enterprises, has contributed to a 25% growth in new business opportunities. Dave's collaborative approach with cross-functional teams ensures that clients receive tailored solutions, reflected in a remarkable 95% customer satisfaction rate. In addition to his professional achievements, Dave effectively balances his work commitments with his personal life, dedicating time to his twin daughters, Emma and Ella, as they start school. His dedication, work ethic, and ability to manage responsibilities make him an invaluable asset to any team."
+    }
+  ]
