@@ -1,7 +1,3 @@
-![Task Screenshot]("https://i.ibb.co/vQCwyJj/image.png)"
-
-
-
 # Lunacal Frontend Developer Intern Task
 
 ## Overview
@@ -25,8 +21,8 @@ Each tab displays specific content fetched from a JSON file located in the `publ
 ### 2. Gallery Widget
 The **Gallery** widget is a custom image slider that supports adding new images dynamically. Each slide is displayed with a beautiful transition animation.
 
+![Task Screenshot](https://i.ibb.co/vQCwyJj/image.png)
+
 - **Custom Image Slider**: Built from scratch, the slider supports smooth sliding transitions.
 - **Dynamic Image Handling**: New images can be added easily, and the slider updates to accommodate them.
 - **Responsive Design**: The slider adapts to different screen sizes for an optimal viewing experience.
-
-
