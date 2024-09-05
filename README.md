@@ -1,6 +1,7 @@
 ![Task Screenshot](https://i.ibb.co/hYX2CdS/Screenshot-2024-09-05-203116.png "Screenshot-2024-09-05-203116")
 
 
+
 # Lunacal Frontend Developer Intern Task
 
 ## Overview
