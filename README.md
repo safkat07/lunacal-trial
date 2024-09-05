@@ -21,7 +21,7 @@ Each tab displays specific content fetched from a JSON file located in the `publ
 ### 2. Gallery Widget
 The **Gallery** widget is a custom image slider that supports adding new images dynamically. Each slide is displayed with a beautiful transition animation.
 
-![Task Screenshot](https://i.ibb.co/vQCwyJj/image.png)
+![Task Screenshot](https://ibb.co/NmgVDLy)
 
 - **Custom Image Slider**: Built from scratch, the slider supports smooth sliding transitions.
 - **Dynamic Image Handling**: New images can be added easily, and the slider updates to accommodate them.
